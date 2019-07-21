@@ -1,0 +1,7 @@
+﻿  Ex.cpp
+c:\users\game\downloads\sample_cm\sample_cm\ex.cpp(85): warning C4474: 'printf': 書式文字列に渡された引数の数が多すぎます
+  c:\users\game\downloads\sample_cm\sample_cm\ex.cpp(85): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、2 が指定されています。
+c:\users\game\downloads\sample_cm\sample_cm\ex.cpp(304): warning C4244: '初期化中': '__int64' から 'double' への変換です。データが失われる可能性があります。
+c:\users\game\downloads\sample_cm\sample_cm\ex.cpp(240): warning C4101: 'status': ローカル変数は 1 度も使われていません。
+c:\users\game\downloads\sample_cm\sample_cm\ex.cpp(192): warning C4700: 初期化されていないローカル変数 'iVal1' が使用されます
+  Ex.vcxproj -> C:\Users\game\Downloads\sample_cm\sample_cm\Debug\Ex.exe
