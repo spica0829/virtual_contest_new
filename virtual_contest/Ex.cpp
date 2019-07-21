@@ -12,7 +12,7 @@
 //SC基板1枚、CM基板1枚のサンプルプログラム
 //CM基板を増やした場合にはModule01,Module02を適宜追加し
 //Module01,Module02に関係するコメントアウトを外してください。
-
+//panda最高
 
 #include<windows.h>
 #include<stdio.h>
